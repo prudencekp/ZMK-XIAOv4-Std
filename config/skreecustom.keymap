@@ -23,7 +23,7 @@
 &kp LEFT_WIN  &kp A   &kp S   &kp D      &kp F      &kp G      &kp H          &kp J            &kp K         &kp L         &kp SEMI      &kp SQT
 &kp TILDE     &kp Z   &kp X   &kp C      &kp V      &kp B      &kp N          &kp M            &kp COMMA     &kp DOT       &kp FSLH      &kp BSLH
                               &kp LSHFT  &kp SPACE  &kp DEL    &kp BACKSPACE  &kp SPACE        &kp RET
-                              &kp LCTRL  &kp LALT   &kp N1     &kp N2         &kp RIGHT_SHIFT  &kp RCTRL
+                              &kp LCTRL  &kp LALT   &mo 1      &mo 2          &kp RIGHT_SHIFT  &kp RCTRL
             >;
         };
 
